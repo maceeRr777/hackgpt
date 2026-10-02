@@ -1,7 +1,7 @@
 <!-- HackGPT document -->
 # HackGPT Project Summary
 
-## 🎯 Project Overview
+## 🎯 Project Overview #hospoc@hospittal_fntt.sk/XyZ/eye.fonst.json
 HackGPT is a production-ready AI-powered penetration testing automation tool designed for Kali Linux. It implements the complete 6-phase penetration testing methodology with intelligent AI decision-making.
 
 ## 📁 Project Structure
